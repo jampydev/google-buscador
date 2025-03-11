@@ -1,0 +1,100 @@
+
+
+*{
+
+
+text-align: center;
+
+}
+
+
+
+body {
+
+
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+height: 100vh;
+
+}
+
+
+
+h1 {
+
+
+font-size: 50px;
+
+color: purple;
+
+
+}
+
+
+
+input[type="text"] {
+
+
+width: 200px;
+
+height: 30px;
+
+font-size: 20px;
+
+
+}
+
+
+input[type="text"]:hover {
+
+
+    border: 2px solid purple;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+
+
+width: 100px;
+
+height: 30px;
+
+font-size: 15px;
+
+margin-top: 25px;
+
+background-color: transparent;
+
+border: 2px solid purple;
+
+font-weight: bold;
+
+cursor: pointer;
+
+}
+
+.btn:hover { 
+
+
+background-color: purple;
+
+color: white;
+
+font-weight: bold;
+
+
+}
+
+
